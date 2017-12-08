@@ -1,11 +1,18 @@
 {
   "name": "ng-lib",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "version": "0.0.0",
+  "authors": [
+    "Leonardo Dionizio"
+  ],
+  "description": "Uma lib open source bem simples em AngularJS",
+  "main": "app.js",
+  "keywords": [
+    "AngularJS",
+    "Directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/seu-usuario/ng-lib",
+  "dependencies": {
+    "angular": "^1.2.x"
+  }
 }
