@@ -1,0 +1,1 @@
+## Exemplo de uma lib bem simples com angularjs, bower e gulp
