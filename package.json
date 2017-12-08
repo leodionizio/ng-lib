@@ -1,18 +1,23 @@
 {
   "name": "ng-lib",
   "version": "0.0.1",
-  "authors": [
-    "Leonardo Dionizio"
-  ],
   "description": "Uma lib open source bem simples em AngularJS",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seu-user/ng-lib.git"
+  },
   "keywords": [
     "AngularJS",
     "Directive"
   ],
+  "author": "Leonardo Dionizio",
   "license": "MIT",
-  "homepage": "https://github.com/seu-usuario/ng-lib",
-  "dependencies": {
-    "angular": "^1.2.x"
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
   }
 }
