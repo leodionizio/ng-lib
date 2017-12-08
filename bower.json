@@ -1,0 +1,18 @@
+{
+  "name": "ng-lib",
+  "version": "0.0.0",
+  "authors": [
+    "Leonardo Dionizio"
+  ],
+  "description": "Uma lib open source bem simples em AngularJS",
+  "main": "app.js",
+  "keywords": [
+    "AngularJS",
+    "Directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/seu-usuario/ng-lib",
+  "dependencies": {
+    "angular": "^1.2.x"
+  }
+}
